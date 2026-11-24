@@ -90,6 +90,25 @@
 ## `$ ls ia/ --repos`
 
 <table>
+  <tr><th colspan="3" align="left"><code>ia/claude-code/ --optimizacion</code></th></tr>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://github.com/raulhernandezherce/tokenometro"><b>💸 tokenómetro</b></a><br>
+      <sub>¿En qué se te van los tokens de Claude Code? Consumo por día, proyecto, modelo y sesión, acierto de caché, coste equivalente y consejos concretos para gastar menos. 100 % local.</sub><br><br>
+      <code>tokens</code> <code>caché</code> <code>plugin</code>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/raulhernandezherce/ctxbar"><b>📊 ctxbar</b></a><br>
+      <sub>Barra de estado para Claude Code: % de contexto con aviso de /compact, caché y por qué falla, límites de 5 h y 7 días, coste y git. Un archivo, ~20 ms.</sub><br><br>
+      <code>statusline</code> <code>contexto</code>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/raulhernandezherce/claudemd-doctor"><b>🩺 claudemd-doctor</b></a><br>
+      <sub>El linter de tu CLAUDE.md: tokens por turno, reglas duplicadas o contradictorias, rutas rotas y secretos. CLI, GitHub Action, pre-commit y plugin.</sub><br><br>
+      <code>context engineering</code> <code>CI</code>
+    </td>
+  </tr>
+  <tr><th colspan="3" align="left"><code>ia/ --herramientas</code></th></tr>
   <tr>
     <td width="33%" valign="top">
       <a href="https://github.com/raulhernandezherce/mcp-electromedicina"><b>⚡ mcp-electromedicina</b></a><br>
