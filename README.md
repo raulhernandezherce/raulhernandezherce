@@ -114,9 +114,9 @@
       <code>ESP32</code> <code>Agent Skills</code>
     </td>
     <td width="33%" valign="top">
-      <a href="https://github.com/raulhernandezherce/vj-shaders"><b>🌈 vj-shaders</b></a> · <a href="https://raulhernandezherce.github.io/vj-shaders/">▶ en vivo</a><br>
-      <sub>12 efectos visuales ISF que se ejecutan en el navegador con WebGL, más una skill para que Claude cree shaders nuevos y un validador que detecta errores entre GPUs.</sub><br><br>
-      <code>GLSL</code> <code>WebGL</code> <code>Agent Skills</code>
+      <a href="https://github.com/raulhernandezherce/vj-shaders"><b>🌈 vj-shaders</b></a><br>
+      <sub>12 efectos visuales ISF para VJ, más una skill para que Claude cree shaders nuevos y un validador que detecta errores entre GPUs.</sub><br><br>
+      <code>GLSL</code> <code>ISF</code> <code>Agent Skills</code>
     </td>
     <td width="33%" valign="top"></td>
   </tr>
