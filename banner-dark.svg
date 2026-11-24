@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="260" viewBox="0 0 960 260">
+<style>
+.trace{stroke-dasharray:1400;stroke-dashoffset:1400;animation:draw 3.2s linear infinite}
+@keyframes draw{0%{stroke-dashoffset:1400}80%{stroke-dashoffset:0;opacity:1}100%{stroke-dashoffset:0;opacity:.15}}
+.blink{animation:bl 1s steps(2) infinite}@keyframes bl{50%{opacity:.15}}
+.beat{animation:bt .83s ease-in-out infinite;transform-origin:center;transform-box:fill-box}
+@keyframes bt{0%,100%{transform:scale(1)}15%{transform:scale(1.25)}}
+text{font-family:'JetBrains Mono','SF Mono',Menlo,Consolas,monospace}
+</style>
+<rect width="960" height="260" rx="18" fill="#070d0b"/>
+<g clip-path="url(#c)"><g stroke="#12241e" stroke-width="1"><line x1="0" y1="0" x2="0" y2="260"/><line x1="24" y1="0" x2="24" y2="260"/><line x1="48" y1="0" x2="48" y2="260"/><line x1="72" y1="0" x2="72" y2="260"/><line x1="96" y1="0" x2="96" y2="260"/><line x1="120" y1="0" x2="120" y2="260"/><line x1="144" y1="0" x2="144" y2="260"/><line x1="168" y1="0" x2="168" y2="260"/><line x1="192" y1="0" x2="192" y2="260"/><line x1="216" y1="0" x2="216" y2="260"/><line x1="240" y1="0" x2="240" y2="260"/><line x1="264" y1="0" x2="264" y2="260"/><line x1="288" y1="0" x2="288" y2="260"/><line x1="312" y1="0" x2="312" y2="260"/><line x1="336" y1="0" x2="336" y2="260"/><line x1="360" y1="0" x2="360" y2="260"/><line x1="384" y1="0" x2="384" y2="260"/><line x1="408" y1="0" x2="408" y2="260"/><line x1="432" y1="0" x2="432" y2="260"/><line x1="456" y1="0" x2="456" y2="260"/><line x1="480" y1="0" x2="480" y2="260"/><line x1="504" y1="0" x2="504" y2="260"/><line x1="528" y1="0" x2="528" y2="260"/><line x1="552" y1="0" x2="552" y2="260"/><line x1="576" y1="0" x2="576" y2="260"/><line x1="600" y1="0" x2="600" y2="260"/><line x1="624" y1="0" x2="624" y2="260"/><line x1="648" y1="0" x2="648" y2="260"/><line x1="672" y1="0" x2="672" y2="260"/><line x1="696" y1="0" x2="696" y2="260"/><line x1="720" y1="0" x2="720" y2="260"/><line x1="744" y1="0" x2="744" y2="260"/><line x1="768" y1="0" x2="768" y2="260"/><line x1="792" y1="0" x2="792" y2="260"/><line x1="816" y1="0" x2="816" y2="260"/><line x1="840" y1="0" x2="840" y2="260"/><line x1="864" y1="0" x2="864" y2="260"/><line x1="888" y1="0" x2="888" y2="260"/><line x1="912" y1="0" x2="912" y2="260"/><line x1="936" y1="0" x2="936" y2="260"/><line x1="960" y1="0" x2="960" y2="260"/><line x1="0" y1="0" x2="960" y2="0"/><line x1="0" y1="24" x2="960" y2="24"/><line x1="0" y1="48" x2="960" y2="48"/><line x1="0" y1="72" x2="960" y2="72"/><line x1="0" y1="96" x2="960" y2="96"/><line x1="0" y1="120" x2="960" y2="120"/><line x1="0" y1="144" x2="960" y2="144"/><line x1="0" y1="168" x2="960" y2="168"/><line x1="0" y1="192" x2="960" y2="192"/><line x1="0" y1="216" x2="960" y2="216"/><line x1="0" y1="240" x2="960" y2="240"/></g></g>
+<clipPath id="c"><rect width="960" height="260" rx="18"/></clipPath>
+<rect x="1" y="1" width="958" height="258" rx="17" fill="none" stroke="#1d3a31" stroke-width="2"/>
+<text x="28" y="44" font-size="13" fill="#7d9a90">MONITOR · BED 01 · <tspan fill="#39ff88" class="blink">● LIVE</tspan></text>
+<text x="28" y="86" font-size="34" font-weight="700" fill="#e6f4ee">Raúl Hernández Herce</text>
+<text x="28" y="114" font-size="15" fill="#39ff88">Electromedicina Clínica · Electrónica · Prototipado IoT</text>
+<path d="M0.0,170.0 L34.0,170.0 L42.0,158.6 L52.0,170.0 L62.0,170.0 L67.0,187.1 L74.0,75.0 L81.0,209.9 L86.0,170.0 L104.0,170.0 L118.0,151.0 L134.0,170.0 L160.0,170.0 L160.0,170.0 L194.0,170.0 L202.0,158.6 L212.0,170.0 L222.0,170.0 L227.0,187.1 L234.0,75.0 L241.0,209.9 L246.0,170.0 L264.0,170.0 L278.0,151.0 L294.0,170.0 L320.0,170.0 L320.0,170.0 L354.0,170.0 L362.0,158.6 L372.0,170.0 L382.0,170.0 L387.0,187.1 L394.0,75.0 L401.0,209.9 L406.0,170.0 L424.0,170.0 L438.0,151.0 L454.0,170.0 L480.0,170.0 L480.0,170.0 L514.0,170.0 L522.0,158.6 L532.0,170.0 L542.0,170.0 L547.0,187.1 L554.0,75.0 L561.0,209.9 L566.0,170.0 L584.0,170.0 L598.0,151.0 L614.0,170.0" transform="translate(20,0)" fill="none" stroke="#39ff88" stroke-width="2.6" stroke-linejoin="round" class="trace"/>
+<line x1="660" y1="24" x2="660" y2="236" stroke="#1d3a31" stroke-width="2"/>
+<g font-size="12" fill="#7d9a90">
+<text x="684" y="48">HR</text><text x="684" y="118">REPARACIONES</text><text x="684" y="188">PREMIOS</text>
+<text x="830" y="48">SpO₂</text><text x="830" y="118">PROYECTO</text><text x="830" y="188">BASE</text>
+</g>
+<g font-weight="700">
+<text x="684" y="90" font-size="38" fill="#39ff88">72</text><text x="740" y="90" font-size="18" fill="#ff5c7a" class="beat">♥</text>
+<text x="684" y="160" font-size="34" fill="#4dd8ff">200+</text>
+<text x="684" y="230" font-size="34" fill="#ffc14d">4</text>
+<text x="830" y="90" font-size="38" fill="#4dd8ff">99</text>
+<text x="830" y="158" font-size="20" fill="#39ff88">UlcerSafe</text>
+<text x="830" y="226" font-size="20" fill="#e6f4ee">La Rioja</text>
+</g>
+</svg>
